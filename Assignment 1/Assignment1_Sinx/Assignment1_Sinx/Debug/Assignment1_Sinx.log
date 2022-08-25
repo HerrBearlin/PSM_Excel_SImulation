@@ -1,0 +1,5 @@
+﻿  Assignment1_Sinx.cpp
+D:\Pendrive 15.08.2021\Dokumenty\Studia\PSM\Assignment 1\Assignment1_Sinx\Assignment1_Sinx\Assignment1_Sinx.cpp(25,8): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Pendrive 15.08.2021\Dokumenty\Studia\PSM\Assignment 1\Assignment1_Sinx\Assignment1_Sinx\Assignment1_Sinx.cpp(31,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Pendrive 15.08.2021\Dokumenty\Studia\PSM\Assignment 1\Assignment1_Sinx\Assignment1_Sinx\Assignment1_Sinx.cpp(34,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Assignment1_Sinx.vcxproj -> D:\Pendrive 15.08.2021\Dokumenty\Studia\PSM\Assignment 1\Assignment1_Sinx\Debug\Assignment1_Sinx.exe
